@@ -1,0 +1,25 @@
+# Virtual environment
+env/
+.venv/
+
+# Documents (personal files, don't push to GitHub)
+docs/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Chroma DB (generated locally)
+chroma/
+.chroma/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints

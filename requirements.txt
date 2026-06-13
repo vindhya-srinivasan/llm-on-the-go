@@ -1,0 +1,12 @@
+langchain
+langgraph
+langchain-ollama
+langchain-chroma
+langchain-huggingface
+langchain-text-splitters
+langchain-community
+chromadb
+pymupdf
+python-docx
+sentence-transformers
+python-dotenv
