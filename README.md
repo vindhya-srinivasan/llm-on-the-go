@@ -1,11 +1,11 @@
 # 🧠 LLMonTheGo
 
-> Your offline personal document assistant — powered by local LLMs. No internet needed.
+> Your offline personal document assistant, powered by local LLMs. No internet needed.
 
 ## What is this?
 
 LLMonTheGo is a personal AI assistant that runs completely offline.
-Drop in your documents (PDF, DOCX, TXT) and ask questions about them — 
+Drop in your documents (PDF, DOCX, TXT) and ask questions about them,
 perfect for travelling, commuting, or anywhere without internet.
 
 If the answer isn't in your documents, it falls back to the local LLM's own knowledge.
@@ -21,7 +21,7 @@ If the answer isn't in your documents, it falls back to the local LLM's own know
 
 - [LangChain](https://python.langchain.com) — document loading, chains
 - [LangGraph](https://langchain-ai.github.io/langgraph) — stateful graph routing
-- [Ollama](https://ollama.com) — local LLM runner
+- [Ollama](https://ollama.com) - local LLM runner
 - [Llama 3.2](https://ollama.com/library/llama3.2) — local language model
 - [ChromaDB](https://www.trychroma.com) — local vector database
 - [HuggingFace Embeddings](https://huggingface.co) — local embeddings
